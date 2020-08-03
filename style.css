@@ -15,5 +15,5 @@
 	outline:none;
 }
 @media(min-width:375px){  
-	.my-auto h1{font-size:20px!important}
+	.my-auto h1{color:red}
 }
