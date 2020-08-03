@@ -14,6 +14,6 @@
 	border:none;
 	outline:none;
 }
-@media(min-width:375px){  
-	.my-auto h1{color:red}
+@media(max-width:375px){  
+	.capty h1{color:red}
 }
