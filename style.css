@@ -1,0 +1,20 @@
+.carousel-caption {top:600px}
+.img0{background-image: url("bg-masthead.jpg");
+	background-attachment: fixed;
+	background-size: cover
+}
+.icon{font-size:800%; color:#1653D5}
+#mybtn{
+	display:none;
+	position: fixed;
+	z-index:99;
+	cursor: pointer;
+	bottom:20px;
+	right:30px;
+	border:none;
+	outline:none;
+}
+@media(max-width:375px){  
+	
+
+}
