@@ -1,5 +1,5 @@
 .carousel-caption {top:600px}
-.img0{background-image: url("bg-masthead.jpg");
+.img0{background-image: url("../24.7/bg-masthead.jpg");
 	background-attachment: fixed;
 	background-size: cover
 }
@@ -14,7 +14,6 @@
 	border:none;
 	outline:none;
 }
-@media(max-width:375px){  
-	
-
+@media(min-width:375px){  
+	.my-auto h1{font-size:20px!important}
 }
