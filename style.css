@@ -15,5 +15,5 @@
 	outline:none;
 }
 @media(max-width:375px){  
-	.capty h1{color:red}
+	.carousel-caption h1{font-size:500px!important}
 }
