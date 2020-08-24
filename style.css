@@ -7,15 +7,13 @@ height:600px;
 padding-top:5%;
 line-height:5
 }
-.begin h1{position:absolute;
-top:50%;
-left:50%;
-transform: translate(-50%,-50%);
+.begin h1{text-align: center;
+	padding-top:10%;
 font-size:6em;
 color:aliceblue;
 }
 .begin ul {list-style-type: none;
-text-align: center; margin-top:22%;}
+text-align: center}
 .begin ul li{display:inline;
 color:aliceblue!important;
 margin:5%; 
