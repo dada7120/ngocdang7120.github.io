@@ -88,5 +88,5 @@ font-size:120%;
 	100%{transform:translateY(0);}
 }
 @media(max-width:320px){
-	.begin h1{font-size:20px}
+	.begin h1{font-size:30px}
 }
